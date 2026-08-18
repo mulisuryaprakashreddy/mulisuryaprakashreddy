@@ -4,10 +4,9 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Researcher+by+mind%2C+Builder+by+hand;Decoding+intelligence+%E2%80%94+one+model+at+a+time" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Where+thoughts+meet+silicon,+mistakes+meet+midnight." alt="Typing SVG" /> 
 </a>
-
 <br/><br/>
 
 <a href="mailto:mulisuryaprakashreddy07@gmail.com">
@@ -31,7 +30,7 @@
 I'm an **AI/ML Researcher and Builder**, currently working as an **AI Engineer Intern**, where I build predictive and diagnostic models in the **Healthcare AI** domain. My approach is rooted in **first-principles thinking** — before I use an architecture, I need to understand *why* it works, not just *that* it works.
 
 ```python
-class Surya:
+class Surya_Prakash:
     def __init__(self):
         self.role       = "AI/ML Researcher & Builder"
         self.mindset     = "Research-first, deployment-driven"
@@ -108,22 +107,9 @@ Currently focused on healthcare AI — models that predict, diagnose, and suppor
 
 </div>
 
-<br/>
 
-## `04` &nbsp;— &nbsp;GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mulisuryaprakashreddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mulisuryaprakashreddy&theme=tokyonight&hide_border=true&background=0d1117&stroke=00c6ff&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulisuryaprakashreddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9" height="165"/>
-
-</div>
-
-<br/>
-
-## `05` &nbsp;— &nbsp;Currently
+## `04` &nbsp;— &nbsp;Currently
 
 ```text
 🔭  Building AI models in the Healthcare domain — AI Engineer Intern @ ADS SOFTEX PVT LIMITED
